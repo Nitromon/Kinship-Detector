@@ -1,6 +1,6 @@
 # Kinship Detector
 Kaggle Challenge on FIW Dataset
-This was the project I and three others created as a capstone project at IIT-Hyderabad under the supervision of Ms.Nazil Parveen.
+This was the project I, Harish, Abhishek and Jayesh created as a capstone project at IIT-Hyderabad under the supervision of Ms.Nazil Parveen.
 
 The we are supposed to accurately detect if the 2 images are similar to each other such that a kinship could be proved between the two.
 (Eg: Father-Son, Mother-Son count as related entities, but Husband-Wife do not)
