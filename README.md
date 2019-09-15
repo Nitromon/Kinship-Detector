@@ -1,4 +1,4 @@
-# Kinship-Detector
+# Kinship Detector
 Kaggle Challenge on FIW Dataset
 This was the project I and three others created as a capstone project at IIT-Hyderabad under the supervision of Ms.Nazil Parveen.
 
